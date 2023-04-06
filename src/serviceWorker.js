@@ -45,7 +45,8 @@ export function register(config) {
             'This web app is being served cache-first by a service it looks good');
           console.log(
             'This web app is being served cache-first by a service test ' +
-              'worker. To learn more, visit https://bit.ly/CRA-PWA'
+              'worker. To learn more, visit https://bit.ly/CRA-PWA' +
+            'this is test'
           );
         });
       } else {
